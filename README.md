@@ -1,4 +1,4 @@
 # TicTacToe
-#I made a TicTacToe game using tailwindcss and vanilla javascript!
+Made using tailwindcss and vanilla javascript. Have Fun!
 https://tasoavci.github.io/TicTacToe/
-#Have Fun
+
